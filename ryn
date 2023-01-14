@@ -1,0 +1,35 @@
+[33mcommit 8cdec16446d9fcb199fc12ca537f286ca0b0b37f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sun Jan 15 00:32:04 2023 +0900
+
+    add rat
+
+[33mcommit f50d46b4ac575ebba7a61928c2f9a133da94aee0[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sun Jan 15 00:09:32 2023 +0900
+
+    remove company.txt
+
+[33mcommit c4547abefe4a47370b08859bf18092d4a983bd95[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sun Jan 15 00:07:37 2023 +0900
+
+    rename animal.txt -> pet.txt
+
+[33mcommit 676b9c34d429bf5312aec19380cd46bc5fdd6255[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sat Jan 14 23:55:17 2023 +0900
+
+    add company
+
+[33mcommit 089efafd57c16e21f393f87c7c4c7d55ca69a60d[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sat Jan 14 23:54:35 2023 +0900
+
+    update fruit and animal
+
+[33mcommit 3c9db081447767df4684f5ecf901543cb4e41627[m
+Author: a022ffu <xiandaxiang4@gmail.com>
+Date:   Sat Jan 14 23:51:47 2023 +0900
+
+    first commit
